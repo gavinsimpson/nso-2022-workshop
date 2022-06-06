@@ -26,3 +26,9 @@ prior to the workshop start.
 ## Slides
 
 Links to rendered slides coming soon
+
+* [Introduction to multivariate methods](https://gavinsimpson.github.io/nso-2022-workshop/01-ordination/index.html)
+
+* [Advanced multivariate methods](https://gavinsimpson.github.io/nso-2022-workshop/02-constrained-ordination/index.html)
+
+* [Introduction to Generalized Additive Models](https://gavinsimpson.github.io/nso-2022-workshop/03-gams/index.html)
